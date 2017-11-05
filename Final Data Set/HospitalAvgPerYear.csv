@@ -1,0 +1,880 @@
+hospital,perYear,hospitalName,hospitalState,Category,HospitalTeaching,HospitalUrban,HospitalSize
+25061,26,#N/A,MA,high,0,0,1
+36194,20.33333333,Mem Sloan-Kettering Cancer CtrNY,NY,high,1,1,3
+48006,15.33333333, ,TX,high,1,1,3
+26099,13,#N/A,MI,high,1,1,3
+6081,11.25,Ronald Reagan UCLA Medical Ctr,CA,high,1,1,3
+36234,11,#N/A,NY,high,1,1,3
+42323,10.66666667,UPMC Presbyterian             ,PA,high,1,1,3
+13072,10,,GA,high,1,1,3
+39161,10,#N/A,OH,high,#N/A,#N/A,#N/A
+36125,9.25,Mount Sinai Hospital          ,NY,high,1,1,3
+6626,8.6,UCSF Medical Center           ,CA,high,1,1,3
+24085,7.5,JOHNS HOPKINS HOSPITAL,MD,high,0,1,3
+27108,7.333333333,Univ of Minnesota Medical Ctr ,MN,high,1,1,3
+53109,7.333333333,Univ of Washington Medical Ctr,WA,high,1,1,3
+36257,7.2,#N/A,NY,high,1,1,1
+12007,7.142857143,Jackson Health System         ,FL,high,1,1,3
+37006,6.5,#N/A,NC,high,1,1,3
+29185,6.285714286,Barnes-Jewish Hospital,MO,high,1,1,3
+12203,6.25,,FL,high,1,1,3
+19136,6.142857143,Univ of Iowa Hosps & Clinics,IA,high,1,1,3
+6407,5.636363636,Univ of CA  Davis Med Ctr     ,CA,high,1,1,2
+20060,5.428571429,0,KS,high,1,1,2
+4117,5.333333333,Mayo Clinic Hospital,AZ,high,1,1,2
+41051,5.333333333,OHSU Hospital                 ,OR,high,1,1,3
+48263,5.333333333, ,TX,high,1,1,1
+17109,5.25,Loyola Univ Medical Center    ,IL,high,1,1,3
+47030,5.2, ,TN,high,1,1,3
+12265,5.1,FL,FL,high,0,1,2
+6525,5,Kaiser Foundation Hospital    CA,CA,high,1,1,2
+17207,5,Rush University Medical CenterIL,IL,high,1,1,3
+36147,5,Saint Vincent's Hosp-Manhattan,NY,high,1,1,3
+39033,5,#N/A,OH,high,#N/A,#N/A,#N/A
+54008,4.666666667,West Virginia Univ Hospitals  ,WV,medium,1,0,3
+6164,4.25,LAC/USC Medical Center,CA,medium,1,1,3
+36201,4.25,MONTEFIORE MEDICAL CENTER,NY,medium,1,1,3
+6635,4,Kaiser Foundation Hospital    ,CA,medium,#N/A,#N/A,#N/A
+17123,4,IL,IL,medium,1,1,3
+18007,4, ,IN,medium,#N/A,#N/A,#N/A
+21113,4,#N/A,KY,medium,1,1,3
+26149,4,MI,MI,medium,1,1,3
+36205,4,#N/A,NY,medium,#N/A,#N/A,#N/A
+39031,4,#N/A,OH,medium,#N/A,#N/A,#N/A
+42201,4,PA,PA,medium,1,1,3
+48136,4, ,TX,medium,1,1,3
+49032,4,#N/A,UT,medium,1,1,3
+51022,4,#N/A,VA,medium,1,1,3
+6367,3.857142857,CA,CA,medium,0,1,3
+9030,3.75,Yale-New Haven Hospital       ,CT,medium,1,1,3
+55075,3.727272727,WI,WI,medium,1,1,3
+36119,3.666666667,Northern Westchester Hospital,NY,medium,1,1,3
+17223,3.538461538,Northwestern Memorial Hospital,IL,medium,0,1,3
+12316,3.5,St Anthony's Hospital         ,FL,medium,0,1,3
+18004,3.5, ,IN,medium,1,1,3
+31050,3.5,#N/A,#N/A,medium,1,1,2
+55016,3.5,Froedtert Mem Lutheran Hosp,WI,medium,1,1,3
+6624,3.4,S6624,CA,medium,1,1,2
+36292,3.4,New York Eye and Ear Infirmary,NY,medium,1,1,1
+37022,3.4,Univ of North Carolina Hosps  ,NC,medium,1,1,3
+4033,3.333333333,X4033,AZ,medium,1,1,3
+36296,3.25,36296,,medium,0,1,1
+40131,3.25,OK,#N/A,medium,1,1,3
+8067,3.111111111,University of Colorado Hosp   ,CO,medium,0,1,3
+4105,3,LibertyHealth-Greenville Hosp,AZ,medium,0,1,3
+12333,3,CEDARS MEDICAL CENTER,FL,medium,1,1,3
+15012,3,HI,#N/A,medium,1,1,2
+25069,3,Brigham and Women's Hospital  MA,MA,medium,1,1,3
+26151,3,#N/A,MI,medium,1,1,3
+27015,3,New Ulm Medical Center,MN,medium,1,1,3
+34062,3,#N/A,NJ,medium,1,1,2
+34107,3,Hackensack Univ Medical Center,NJ,medium,1,1,3
+34108,3,NJ,NJ,medium,0,0,3
+36001,3,#N/A,NY,medium,#N/A,#N/A,#N/A
+36137,3,#N/A,NY,medium,1,1,3
+36314,3,#N/A,NY,medium,1,1,1
+36341,3,Albany Medical Center         ,NY,medium,1,1,3
+37088,3,#N/A,NC,medium,1,1,3
+39041,3,#N/A,OH,medium,1,1,3
+42067,3,GEISINGER MEDICAL CENTER,PA,medium,1,0,3
+42325,3,#N/A,PA,medium,1,1,3
+48003,3, ,TX,medium,1,1,3
+55154,3,WI,WI,medium,1,1,1
+42232,2.833333333,PA,PA,medium,1,1,2
+12059,2.777777778,Univ of Miami Hosp & Clinics  FL,FL,medium,0,1,1
+8106,2.75,R8106,CO,medium,1,1,3
+36291,2.75,ROSWELL PARK CANCER INSTITUTE,NY,medium,1,1,1
+51007,2.714285714,Sentara Norfolk Gen Hospital  ,VA,medium,1,1,3
+36073,2.7,Upstate Medical University    ,NY,medium,1,1,2
+24078,2.666666667,UNIV OF MARYLAND MED SYSTEM,MD,medium,1,1,3
+42038,2.666666667,Lehigh Valley Hospital,PA,medium,1,1,3
+6028,2.5,0,CA,medium,1,1,3
+6060,2.5,Geneva General Hospital,CA,medium,1,1,2
+6515,2.5,Cedars-Sinai Medical Center,CA,medium,1,1,3
+12319,2.5,FL,FL,medium,1,1,1
+29005,2.5,ST JOHN'S MERCY MEDICAL CENTER,MO,medium,1,1,3
+29079,2.5,#N/A,MO,medium,1,1,2
+32011,2.5,MountainView Hospital,NV,medium,0,1,3
+36219,2.5,Highland Hospital of Rochester,NY,medium,1,1,1
+47137,2.5, ,TN,medium,0,1,1
+6180,2.333333333,Kaiser Foundation Hospital    ,CA,medium,1,1,1
+6264,2.333333333,USC-Norris Cancer Ctr & Hosp  ,CA,medium,1,1,1
+6454,2.333333333,SCRIPPS GREEN HOSPITAL,CA,medium,1,1,1
+25111,2.333333333,#N/A,MA,medium,1,1,1
+5107,2.25,                              ,AR,medium,1,1,2
+6632,2.25,A6632,CA,medium,1,1,3
+12336,2.25,St Joseph's Hospital          ,FL,medium,0,1,3
+36152,2.25,Long Island College Hospital  NY,NY,medium,1,1,3
+6002,2.2,Univ of CA San Diego Med Ctr  ,CA,medium,1,1,2
+6602,2.2,CA,CA,medium,1,1,3
+25027,2.2,Harrington Memorial Hospital,MA,medium,0,0,1
+55048,2.181818182,Saint Joseph's Hospital       ,WI,medium,0,0,3
+47026,2.142857143, ,TN,medium,1,1,3
+4022,2.111111111,Banner Good Samaritan Med Ctr ,AZ,medium,1,1,3
+53087,2.1,Virginia Mason Medical Center,WA,medium,1,1,1
+6139,2.090909091,City of Hope Natl Medical Ctr,CA,medium,1,1,1
+24035,2.090909091,Greater Baltimore Med Center  MD,MD,medium,1,1,2
+4081,2,24081,AZ,medium,0,0,3
+5083,2,                              ,AR,medium,1,1,3
+6097,2,O6097,CA,medium,0,1,2
+6184,2,36184,CA,medium,1,1,3
+6233,2,Scripps Mem Hosp-La Jolla,CA,medium,1,1,3
+6388,2,Good Samaritan Hospital       CA,CA,medium,0,1,3
+6494,2,Centinela Hospital Med Center,CA,medium,1,1,2
+6548,2,Hoag Mem Hospital PresbyterianCA,CA,medium,0,1,3
+6613,2,Kaiser Foundation Hospital    CA,CA,medium,0,1,2
+6636,2,Kaiser Foundation Hospital,CA,medium,0,1,3
+6660,2,Enloe Medical Center          ,CA,medium,0,1,3
+9025,2,29025,CT,medium,1,1,1
+12118,2,FL,FL,medium,0,1,2
+12172,2,FL,FL,medium,0,1,3
+12186,2,FL,FL,medium,0,0,3
+12195,2,Florida Hospital Waterman     FL,FL,medium,0,1,2
+12218,2,FL,FL,medium,0,1,1
+12243,2,Memorial Hospital of Tampa    FL,FL,medium,0,1,2
+12263,2,FL,FL,medium,0,0,3
+12285,2,FL,FL,medium,0,1,2
+13021,2,                              ,GA,medium,1,1,2
+13059,2,0,GA,medium,0,1,3
+13100,2,0,GA,medium,0,1,3
+17150,2,St James Hosps & Hlth Centers,IL,medium,0,1,2
+19008,2,Mercy Medical Ctr-Sioux City  IA,IA,medium,1,1,2
+19018,2,IA,IA,medium,0,0,3
+19103,2,IA,IA,medium,0,0,3
+21017,2,Bourbon Community Hospital,KY,medium,0,0,3
+21048,2,Baptist Hospital East         KY,KY,medium,0,1,3
+25004,2,CHILDREN'S HOSPITAL,MA,medium,1,1,2
+25101,2,Massachusetts General Hospital,MA,medium,1,1,3
+25106,2,#N/A,MA,medium,1,1,1
+25112,2,#N/A,MA,medium,0,0,2
+25129,2,NEW ENGLAND MEDICAL CENTER,MA,medium,1,1,2
+25146,2,MA,MA,medium,1,1,1
+25189,2,Beth Israel Deaconess Med Ctr,MA,medium,1,1,3
+25190,2,#N/A,MA,medium,1,1,3
+26159,2,0,MI,medium,1,1,3
+27048,2,#N/A,MN,medium,1,1,2
+33028,2,Dartmouth-Hitchcock Med Ctr   NH,#N/A,medium,1,0,3
+34019,2,Englewood Hosp & Medical Ctr  ,NJ,medium,1,1,2
+34038,2,Underwood-Memorial Hospital   ,NJ,medium,1,1,1
+34075,2,NJ,NJ,medium,0,1,3
+36180,2,#N/A,NY,medium,1,1,3
+36221,2,St Elizabeth Medical Center   NY,NY,medium,0,1,2
+36258,2,BROOKLYN HOSPITAL CENTER,NY,medium,1,1,3
+36300,2,Long Island Jewish Medical Ctr,NY,medium,1,1,3
+37016,2,Carolinas Medical Center      NC,NC,medium,1,1,3
+37034,2,Watauga Medical Center        ,NC,medium,0,0,3
+37045,2,Wayne Memorial Hospital       NC,NC,medium,0,1,3
+37091,2,Roanoke-Chowan Hospital,NC,medium,1,1,3
+39047,2,#N/A,OH,medium,1,1,3
+42108,2,PA,PA,medium,1,1,1
+42250,2,PA,PA,medium,0,0,1
+45022,2,0,SC,medium,0,1,3
+45046,2,0,SC,medium,1,1,3
+45058,2,                              ,SC,medium,0,1,3
+47014,2, ,TN,medium,1,1,3
+47043,2, ,TN,medium,1,1,2
+47104,2, ,TN,medium,0,1,3
+48020,2, ,TX,medium,1,1,2
+48062,2, ,TX,medium,0,1,3
+48143,2, ,TX,medium,0,1,3
+48213,2, ,TX,medium,1,1,2
+49029,2,St Mark's Hospital,UT,medium,1,1,2
+51009,2,Bon Secours-DePaul Medical CtrVA,VA,medium,1,1,2
+12266,1.833333333,FL,FL,medium,1,1,3
+12337,1.833333333,Sarasota Memorial Hospital    FL,FL,medium,0,1,3
+17222,1.833333333,UNIVERSITY OF IL AT CHICAGO,IL,medium,1,1,2
+12033,1.8,Lee Memorial Hospital         ,FL,medium,0,1,3
+42198,1.75,PA,PA,medium,0,1,3
+55076,1.75,WI,WI,medium,1,1,2
+6630,1.666666667,S6630,CA,medium,1,1,3
+12084,1.666666667,Cleveland Clinic Florida      ,FL,medium,1,1,1
+12302,1.666666667,Cape Coral Hospital           FL,FL,medium,0,1,3
+12309,1.666666667,FL,FL,medium,0,1,1
+12323,1.666666667,St Mary's Medical Center      FL,FL,medium,0,1,3
+17018,1.666666667,John H Stroger Jr Hospital,IL,medium,1,1,3
+24082,1.666666667,Sinai Hospital of Baltimore   ,MD,medium,1,1,2
+25026,1.666666667,Newton-Wellesley Hospital,MA,medium,1,0,3
+27005,1.666666667,Methodist Hospital            MN,MN,medium,0,1,3
+36317,1.666666667,New York Univ Medical Center  NY,NY,medium,1,1,3
+39026,1.666666667,                              ,OH,medium,1,1,3
+42080,1.666666667,PA,PA,medium,1,1,3
+51043,1.666666667,Inova Fairfax Hospital        VA,VA,medium,1,1,3
+12298,1.625,Lakeland Regional Med Center  FL,FL,medium,0,1,3
+34029,1.6,Southern Ocean County Hospital,NJ,medium,1,1,2
+45063,1.6,0,SC,medium,1,1,3
+4107,1.5,Tucson Medical Center         ,AZ,medium,1,1,3
+6043,1.5,#N/A,CA,medium,1,1,1
+6127,1.5,Orange Coast Memorial Med Ctr ,CA,medium,1,1,1
+6224,1.5,CA,CA,medium,0,0,1
+6284,1.5,A6284,CA,medium,1,1,2
+6299,1.5,SALINAS VLY MEM HTHCARE SYST,CA,medium,0,1,2
+6376,1.5,Kaiser Foundation Hospital    ,CA,medium,0,1,3
+6564,1.5,Providence Saint Joseph Ctr   ,CA,medium,0,1,3
+8030,1.5,D8030,CO,medium,1,1,3
+9042,1.5,Hospital of Saint Raphael     ,CT,medium,1,1,2
+12038,1.5,FL,FL,medium,0,0,3
+12053,1.5,Oak Hill Hospital,FL,medium,0,1,3
+12054,1.5,FL,FL,medium,0,1,3
+12206,1.5,FL,FL,medium,0,1,3
+12269,1.5,FL,FL,medium,0,0,3
+12280,1.5,University Community Hospital FL,FL,medium,0,1,3
+12307,1.5,Orlando Regional Medical Ctr  FL,FL,medium,1,1,3
+12320,1.5,Florida Hospital              ,FL,medium,1,1,3
+13013,1.5,0,GA,medium,1,1,3
+13124,1.5,GA,GA,medium,0,1,3
+17049,1.5,#N/A,IL,medium,1,1,3
+17095,1.5,Memorial Medical Center       IL,IL,medium,1,1,2
+17172,1.5,#N/A,IL,medium,1,1,2
+17242,1.5,IL,IL,medium,0,1,3
+19140,1.5,MERCY MEDICAL CENTER,IA,medium,1,1,3
+20075,1.5,KS,KS,medium,0,1,3
+21060,1.5,#N/A,KY,medium,1,1,2
+21062,1.5,University of Kentucky Hosp   ,KY,medium,1,1,2
+23024,1.5,#N/A,#N/A,medium,0,1,2
+25011,1.5,Baystate Franklin Medical Center,MA,medium,1,1,2
+25050,1.5,MA,MA,medium,1,1,2
+25160,1.5,Mercy Medical Center          ,MA,medium,0,1,3
+29184,1.5,Freeman Health System         MO,MO,medium,0,1,3
+34045,1.5,Overlook Hospital             ,NJ,medium,1,1,2
+34102,1.5,NJ,NJ,medium,1,1,2
+36081,1.5,Brookdale Hospital Medical Ctr,NY,medium,1,1,3
+36105,1.5,Catskill Regional Medical Center,NY,medium,1,0,3
+36155,1.5,Rochester General Hospital    ,NY,medium,1,1,3
+36233,1.5,New York Hospital Queens      NY,NY,medium,1,1,3
+36242,1.5,#N/A,NY,medium,1,1,3
+37030,1.5,Carolinas Med Ctr-University  NC,NC,medium,0,1,2
+42274,1.5,PA,PA,medium,1,1,1
+42318,1.5,#N/A,PA,medium,1,1,2
+45038,1.5,                              ,SC,medium,0,0,3
+47072,1.5, ,TN,medium,1,1,2
+47134,1.5, ,TN,medium,1,1,3
+48199,1.5, ,TX,medium,1,1,3
+55010,1.5,Children's Hosp of Wisconsin  WI,WI,medium,1,1,1
+55072,1.5,WI,WI,medium,0,1,3
+55087,1.5,New London Family Medical Center,WI,medium,0,1,3
+55130,1.5,WI,WI,medium,1,1,2
+12255,1.428571429,FL,FL,medium,1,1,3
+19079,1.428571429,Iowa Methodist Medical Center IA,IA,medium,1,1,3
+9060,1.4,Univ of CT Health Center,CT,medium,1,1,1
+12167,1.4,Baptist Hospital              FL,FL,medium,0,1,3
+17034,1.4,Advocate Lutheran Gen Hosp    IL,IL,medium,1,1,3
+19088,1.4,St Luke's Reg Medical Center  ,IA,medium,0,1,3
+36109,1.4,#N/A,NY,medium,1,1,3
+53128,1.4,Swedish Health Services       WA,WA,medium,1,1,3
+12031,1.375,Baptist Hospital of Miami     ,FL,medium,1,1,2
+55151,1.363636364,St Mary's Hospital            ,WI,medium,0,1,3
+6094,1.333333333,Lodi Memorial Hospital,CA,medium,0,1,2
+6153,1.333333333,CA,CA,medium,0,0,3
+6295,1.333333333,Kaiser Foundation Hospital    ,CA,medium,1,1,1
+6309,1.333333333,D6309,CA,medium,0,1,3
+6375,1.333333333,CA,CA,medium,0,1,3
+12042,1.333333333,FL,FL,medium,1,1,3
+12057,1.333333333,Jupiter Medical Center        ,FL,medium,0,1,2
+12093,1.333333333,Raulerson Hospital,FL,medium,0,1,2
+12376,1.333333333,#N/A,FL,medium,1,1,3
+17010,1.333333333,St Elizabeth's Hospital       IL,IL,medium,1,1,1
+17260,1.333333333,Hinsdale Hospital,IL,medium,1,1,2
+25028,1.333333333,Saint Vincent Hospital        MA,MA,medium,1,1,2
+25071,1.333333333,Cape Cod Hospital,MA,medium,0,1,3
+25110,1.333333333,Emerson Hospital              MA,MA,medium,0,1,2
+29052,1.333333333,UNIVERSITY HOSPITALS & CLINICS,MO,medium,1,1,2
+34026,1.333333333,NJ,NJ,medium,0,0,3
+34036,1.333333333,LibertyHealth-Meadowlands HospNJ,NJ,medium,0,1,3
+34087,1.333333333,Valley Hospital               ,NJ,medium,0,1,3
+36193,1.333333333,WESTCHESTER MEDICAL CENTER,NY,medium,1,1,3
+41015,1.333333333,Sacred Heart Medical Center   ,OR,medium,0,1,3
+42258,1.333333333,PA,PA,medium,1,1,2
+55046,1.333333333,West Allis Memorial Hospital,WI,medium,0,1,3
+55176,1.333333333,ST LUKE'S MEDICAL CENTER,WI,medium,1,1,3
+6183,1.25,O6183,CA,medium,1,1,2
+12055,1.25,Manatee Memorial Hospital     ,FL,medium,0,1,3
+12191,1.25,Munroe Regional Medical Center,FL,medium,0,1,3
+12292,1.25,FL,FL,medium,0,0,3
+17122,1.25,IL,IL,medium,0,1,3
+17184,1.25,IL,IL,medium,1,1,3
+29105,1.25,LESTER E COX MEDICAL CENTERS,MO,medium,1,1,3
+34006,1.25,Community Medical Center,NJ,medium,0,1,3
+55155,1.25,Gundersen Lutheran,WI,medium,0,1,3
+55165,1.25,Columbia St Mary's Columbia   ,WI,medium,0,1,3
+4091,1.2,Bayonne Medical Center,AZ,medium,0,1,3
+4097,1.2,AZ,AZ,medium,1,1,2
+6049,1.2,0,CA,medium,0,1,3
+12287,1.2,FL,FL,medium,0,1,3
+17180,1.2,IL,IL,medium,0,1,3
+34013,1.166666667,Saint Michael's Medical Center,NJ,medium,1,1,3
+4029,1,JOHN C LINCOLN HOSPITAL,AZ,low,0,1,3
+4042,1,24042,AZ,low,0,1,2
+4047,1,Scottsdale Healthcare Shea    ,AZ,low,1,1,2
+4050,1,Summers County ARH Hospital,AZ,low,#N/A,#N/A,#N/A
+4052,1,NORTHWEST MEDICAL CENTER,AZ,low,0,1,2
+4068,1,E4068,AZ,low,1,1,2
+4072,1,John C Lincoln Hospital       ,AZ,low,0,1,1
+4093,1,34093,AZ,low,0,1,3
+4096,1,AZ,AZ,low,0,1,2
+4103,1,E4103,AZ,low,0,1,3
+4110,1,Flagstaff Medical Center,AZ,low,0,1,3
+5086,1,#N/A,AR,low,0,1,2
+6001,1,Alta Bates Summit Medical Center,CA,low,1,1,2
+6003,1,Mad River Community Hospital,CA,low,0,0,2
+6009,1,0,CA,low,0,0,1
+6010,1,S6010,CA,low,1,1,2
+6011,1,Colusa Regional Medical Center,CA,low,0,1,2
+6024,1,#N/A,CA,low,0,0,2
+6031,1,Central Valley General Hospital,CA,low,1,1,1
+6033,1,Saint John's Health Center    ,CA,low,0,1,3
+6046,1,Y6046,CA,low,0,0,3
+6064,1,Kaiser Foundation Hospital    CA,CA,low,1,1,1
+6074,1,36074,CA,low,0,1,2
+6090,1,Santa Barbara Cottage Hospital,CA,low,1,1,3
+6100,1,36100,CA,low,1,1,1
+6116,1,CA,CA,low,0,0,3
+6123,1,Dominican Hospital            CA,CA,low,0,1,3
+6142,1,0,CA,low,0,0,1
+6144,1,A6144,CA,low,1,1,3
+6158,1,Kaiser Foundation Hospital    CA,CA,low,0,1,2
+6176,1,CA,CA,low,0,1,1
+6187,1,36187,CA,low,0,1,3
+6192,1,36192,CA,low,0,1,3
+6193,1,E6193,CA,low,0,1,3
+6205,1,Arrowhead Regional Medical Ctr,CA,low,1,1,3
+6206,1,#N/A,CA,low,0,1,1
+6207,1,Huntington Hospital,CA,low,1,1,3
+6221,1,E6221,CA,low,0,1,3
+6223,1,Tri-City Medical Center,CA,low,0,1,3
+6239,1,Seton Medical Center,CA,low,0,1,3
+6254,1,Our Lady of Lourdes Mem Hosp,CA,low,1,1,1
+6255,1,S6255,CA,low,0,1,2
+6260,1,Regional Med Ctr of San Jose  ,CA,low,0,1,3
+6272,1,Y6272,CA,low,1,1,2
+6276,1,Sharp Memorial Hospital       ,CA,low,1,1,2
+6301,1,ALAMEDA CNTY MEDICAL CTR,CA,low,1,1,2
+6319,1,St Joseph's Medical Center,CA,low,0,1,3
+6326,1,St Jude Medical Center,CA,low,0,1,3
+6333,1,E6333,CA,low,1,1,2
+6338,1,#N/A,CA,low,0,1,3
+6345,1,Glendale Mem Hosp & Hlth Ctr  ,CA,low,0,1,3
+6370,1,Lucile Packard Children's Hosp,CA,low,1,1,2
+6374,1,Memorial Medical Center       ,CA,low,0,1,3
+6381,1,Western Medical Center Anaheim,CA,low,0,1,1
+6382,1,Santa Clara Valley Med Center,CA,low,1,1,3
+6414,1,KAISER FOUNDATION HOSPITAL,CA,low,0,1,1
+6422,1,Kaiser Foundation Hospital    ,CA,low,1,1,1
+6441,1,SANTA MONICA UCLA MED CENTER,CA,low,0,1,2
+6443,1,Scripps Mem Hospital-Encinitas,CA,low,0,1,2
+6460,1,CA,CA,low,0,1,1
+6464,1,#N/A,CA,low,0,0,2
+6467,1,#N/A,CA,low,0,0,1
+6485,1,Kaiser Foundation Hospital,CA,low,1,1,2
+6490,1,CA,CA,low,1,1,2
+6502,1,E6502,CA,low,1,1,1
+6532,1,#N/A,CA,low,1,1,3
+6538,1,CA,CA,low,0,0,3
+6547,1,White Memorial Medical Center,CA,low,1,1,3
+6551,1,Eisenhower Medical Ctr        CA,CA,low,0,1,3
+6576,1,Citrus Valley Medical Center,CA,low,0,1,3
+6579,1,R6579,CA,low,0,1,3
+6583,1,CA,CA,low,0,1,2
+6588,1,REDDING MEDICAL CENTER,CA,low,0,1,2
+6594,1,C6594,CA,low,0,1,1
+6595,1,LAC-King-Drew Medical Center,CA,low,1,1,2
+6596,1,R6596,CA,low,0,1,1
+6598,1,#N/A,CA,low,0,0,3
+6617,1,N6617,CA,low,0,1,2
+6629,1,DOWNEY COMMUNITY HOSP FDN,CA,low,0,1,2
+6644,1,JM/MD HEALTH SYSTEM,CA,low,0,1,1
+6690,1,#N/A,CA,low,#N/A,#N/A,#N/A
+8003,1,0,CO,low,1,1,2
+8007,1,Pagosa Mountain Hospital,CO,low,0,1,1
+8014,1,Exempla Saint Joseph Hospital,CO,low,1,1,3
+8021,1,Memorial Health System        ,CO,low,0,1,3
+8042,1,Penrose-St Francis Hlth Servs ,CO,low,1,1,3
+8047,1,#N/A,CO,low,0,0,3
+8059,1,Exempla Lutheran Medical Center,CO,low,1,1,2
+8065,1,CO,CO,low,0,0,1
+8068,1,R8068,CO,low,0,1,3
+8074,1,St Anthony Central Hospital,CO,low,1,1,2
+9002,1,Saint Mary's Hospital,CT,low,1,1,1
+9044,1,Ringgold County Hospital,CT,low,1,1,1
+9048,1,19048,CT,low,1,1,2
+9054,1,19054,CT,low,0,1,2
+9071,1,#N/A,#N/A,low,1,1,2
+9072,1,Saint Luke's Hospital,CT,low,1,1,2
+12002,1,Kendall Regional Med Center   ,FL,low,0,1,3
+12006,1,St Vincent's Medical Center   ,FL,low,1,1,2
+12010,1,Southwest Florida Reg Med Ctr FL,FL,low,0,1,3
+12017,1,Bayfront Medical Center,FL,low,1,1,2
+12020,1,FL,FL,low,0,1,3
+12021,1,NCH Downtown Naples Hospital,FL,low,0,0,3
+12024,1,FL,FL,low,0,1,3
+12028,1,Mease Countryside Hospital    FL,FL,low,0,1,2
+12030,1,FL,FL,low,0,1,1
+12032,1,Coral Springs Medical Center  FL,FL,low,0,1,2
+12039,1,FL,FL,low,0,1,3
+12043,1,FL,FL,low,0,0,3
+12044,1,#N/A,FL,low,0,0,3
+12062,1,Naples Community Hospital,FL,low,0,1,3
+12068,1,FL,FL,low,0,1,3
+12071,1,Lehigh Regional Medical Center,FL,low,0,1,3
+12074,1,FL,FL,low,0,1,3
+12087,1,Largo Medical Center          ,FL,low,0,1,3
+12105,1,Lakeland Regional Medical Center,FL,low,0,1,2
+12111,1,FL,FL,low,0,1,2
+12113,1,Indian River Medical Center   ,FL,low,0,0,3
+12119,1,Broward General Medical Center,FL,low,0,1,3
+12134,1,FL,FL,low,0,1,3
+12140,1,Venice Regional Medical Ctr   ,FL,low,0,1,3
+12144,1,FL,FL,low,0,1,3
+12145,1,FL,FL,low,0,0,3
+12150,1,FL,FL,low,0,1,3
+12152,1,Aventura Hospital & Med Center,FL,low,0,1,3
+12154,1,FL,FL,low,0,0,1
+12155,1,All Children's Hospital       FL,FL,low,0,1,2
+12158,1,FL,FL,low,0,0,3
+12159,1,Morton Plant Hospital,FL,low,0,1,3
+12165,1,FL,FL,low,0,1,2
+12166,1,Sacred Heart Health System,FL,low,1,1,2
+12169,1,FL,FL,low,0,0,3
+12170,1,FL,FL,low,0,1,3
+12178,1,Palms of Pasadena Hospital,FL,low,0,1,3
+12180,1,Westside Regional Medical Ctr ,FL,low,0,1,3
+12183,1,Palm Springs General Hospital ,FL,low,0,1,2
+12185,1,FL,FL,low,0,1,3
+12196,1,North Okaloosa Medical Ctr,FL,low,0,1,2
+12197,1,#N/A,FL,low,0,0,3
+12200,1,FL,FL,low,0,1,3
+12213,1,Orange Park Medical Center    ,FL,low,0,1,2
+12214,1,Palm Beach Gardens Med Ctr    ,FL,low,0,1,2
+12222,1,North Florida Reg Medical Ctr ,FL,low,0,1,3
+12226,1,FL,FL,low,0,1,3
+12227,1,FL,FL,low,0,1,2
+12229,1,FL,FL,low,0,1,2
+12231,1,BRANDON REGIONAL HOSPITAL,FL,low,0,1,3
+12235,1,FL,FL,low,0,1,3
+12240,1,FL,FL,low,0,1,3
+12241,1,Gulf Coast Medical Center     ,FL,low,0,1,2
+12242,1,FL,FL,low,0,1,1
+12248,1,Pasco Regional Medical Center FL,FL,low,0,1,2
+12249,1,#N/A,FL,low,0,0,3
+12260,1,FL,FL,low,0,1,3
+12272,1,FL,FL,low,0,0,2
+12275,1,FL,FL,low,0,1,2
+12277,1,PARKWAY REGIONAL MED CENTER,FL,low,0,1,3
+12281,1,FL,FL,low,0,1,3
+12282,1,Helen Ellis Memorial Hospital ,FL,low,0,1,2
+12293,1,#N/A,FL,low,0,1,3
+12297,1,FL,FL,low,0,0,2
+12301,1,FL,FL,low,0,1,2
+12314,1,St Petersburg General Hospital,FL,low,0,1,3
+12321,1,Hialeah Hospital              ,FL,low,0,1,3
+12322,1,Memorial Hosp of Jacksonville,FL,low,0,1,3
+12325,1,Imperial Point Medical Center ,FL,low,0,1,2
+12327,1,Memorial Hospital West        FL,FL,low,0,1,2
+12329,1,Lawnwood Reg Medical Center   FL,FL,low,0,1,3
+12332,1,Spring Hill Regional Hospital FL,FL,low,0,1,1
+12343,1,WINTER HAVEN HOSPITAL,FL,low,0,1,3
+12386,1,#N/A,FL,low,0,1,1
+13003,1,                              ,GA,low,0,1,3
+13004,1,                              ,GA,low,1,1,2
+13008,1,                              ,GA,low,0,1,3
+13011,1,                              ,GA,low,1,1,2
+13012,1,0,GA,low,1,1,2
+13016,1,GA,GA,low,0,1,3
+13017,1,GA,GA,low,1,1,2
+13018,1,0,GA,low,0,1,3
+13020,1,0,GA,low,1,1,2
+13022,1,                              ,GA,low,0,1,2
+13023,1,#N/A,GA,low,0,1,3
+13024,1,#N/A,GA,low,0,1,3
+13026,1,GA,GA,low,0,1,3
+13048,1,GA,GA,low,1,1,2
+13058,1,0,GA,low,0,0,3
+13068,1,0,GA,low,0,1,3
+13095,1,0,GA,low,0,1,2
+13096,1,0,GA,low,1,1,3
+13108,1,0,GA,low,0,0,3
+13114,1,0,GA,low,-9,-9,-9
+13121,1,GA,GA,low,1,1,3
+13123,1,GA,GA,low,0,1,2
+13129,1,GA,GA,low,0,1,2
+13134,1,0,GA,low,0,0,3
+17004,1,Holy Family Medical Center    ,IL,low,0,1,3
+17005,1,Mercy Hospital and Med Center IL,IL,low,1,1,2
+17011,1,Memorial Hosp of Carbondale   IL,IL,low,1,0,3
+17024,1,Provena United Samaritans Ctr IL,IL,low,0,0,3
+17038,1,IL,IL,low,0,0,3
+17043,1,Saint Francis Hospital        ,IL,low,1,1,2
+17047,1,ILLINOIS MASONIC MED CENTER,IL,low,1,1,2
+17057,1,#N/A,IL,low,0,1,2
+17064,1,IL,IL,low,1,1,1
+17073,1,Hammond-Henry Hospital,IL,low,0,1,3
+17074,1,Michael Reese Hosp & Med Ctr  IL,IL,low,1,1,3
+17089,1,COLUMBUS HOSPITAL,IL,low,1,1,1
+17090,1,MORRIS HOSPITAL,IL,low,0,1,2
+17099,1,St. Mary's Hospital,IL,low,1,1,2
+17102,1,Rockford Memorial Hospital    IL,IL,low,0,1,3
+17110,1,IL,IL,low,1,1,1
+17120,1,IL,IL,low,0,0,3
+17126,1,Children's Memorial Hospital,IL,low,1,1,1
+17130,1,Kishwaukee Community Hospital ,IL,low,0,1,2
+17145,1,IL,IL,low,0,1,2
+17148,1,IL,IL,low,0,1,2
+17149,1,Resurrection Medical Center   ,IL,low,1,1,2
+17158,1,IL,IL,low,0,1,3
+17159,1,#N/A,IL,low,0,1,2
+17167,1,RUSH NORTH SHORE MEDICAL CTR,IL,low,1,1,1
+17168,1,SILVER CROSS HOSPITAL,IL,low,0,1,3
+17171,1,BroMenn Healthcare System,IL,low,0,1,3
+17174,1,COMMUNITY HOSPITAL OF OTTAWA,IL,low,0,0,3
+17179,1,Palos Community Hospital      ,IL,low,0,1,3
+17190,1,St Bernard Hospital           IL,IL,low,0,1,2
+17195,1,CGH Medical Center,IL,low,0,1,2
+17197,1,#N/A,IL,low,0,1,3
+17199,1,IL,IL,low,1,1,1
+17201,1,Mount Sinai Hospital          ,IL,low,1,1,2
+17203,1,West Suburban Hosp Med Center,IL,low,1,1,1
+17205,1,ST ELIZABETH'S HOSPITAL,IL,low,1,1,1
+17230,1,IL,IL,low,0,1,2
+17231,1,OSF Saint Anthony Medical Ctr ,IL,low,0,1,3
+17240,1,Proctor Hospital,IL,low,0,1,2
+17246,1,IL,IL,low,0,0,3
+17247,1,#N/A,IL,low,0,1,3
+17265,1,ST ALEXIUS MEDICAL CENTER,IL,low,0,1,2
+17266,1,#N/A,IL,low,0,1,2
+17273,1,Central DuPage Hospital       IL,IL,low,0,1,3
+18009,1, ,IN,low,1,1,3
+18016,1, ,IN,low,1,1,2
+18019,1, ,IN,low,0,1,3
+18043,1, ,IN,low,1,1,1
+18058,1, ,IN,low,0,1,3
+18062,1, ,IN,low,1,1,2
+18135,1, ,IN,low,1,1,2
+18141,1, ,IN,low,0,1,2
+18145,1, ,IN,low,#N/A,#N/A,#N/A
+19002,1,Finley Hospital,IA,low,0,1,2
+19003,1,Alegent Health Mercy Hospital,IA,low,0,1,1
+19006,1,IA,IA,low,0,0,2
+19031,1,Alegent Health Mercy Hospital ,IA,low,0,1,3
+19037,1,Mercy Medical Center-Dubuque  IA,IA,low,0,1,3
+19050,1,Jennie Edmundson Hospital     IA,IA,low,0,1,2
+19052,1,St Luke's Hospital,IA,low,1,1,2
+19054,1,Iowa Lutheran Hospital,IA,low,1,1,1
+19058,1,IA,IA,low,1,1,2
+19074,1,Trinity Regional Medical Ctr  ,IA,low,0,0,3
+19077,1,Covenant Medical Center       IA,IA,low,0,1,3
+19078,1,IA,IA,low,1,1,1
+19084,1,IA,IA,low,0,0,2
+19113,1,IA,IA,low,0,0,3
+19138,1,Mercy Medical Ctr-North Iowa  IA,IA,low,1,0,3
+19139,1,Genesis Medical Ctr-Davenport ,IA,low,0,1,3
+20061,1,0,KS,low,0,0,3
+20068,1,                              ,KS,low,0,1,3
+20125,1,0,KS,low,0,1,2
+20161,1,0,KS,low,1,1,2
+20172,1,0,KS,low,0,1,3
+21026,1,Hardin Memorial Hospital      KY,KY,low,0,0,3
+21055,1,Central Baptist Hospital,KY,low,0,1,3
+21076,1,CARITAS MEDICAL CENTER,KY,low,0,1,2
+22050,1,                              ,LA,low,#N/A,#N/A,#N/A
+22088,1,                              ,LA,low,#N/A,#N/A,#N/A
+22113,1,#N/A,#N/A,low,#N/A,#N/A,#N/A
+23007,1,#N/A,#N/A,low,1,1,3
+23021,1,#N/A,#N/A,low,0,0,1
+24007,1,Good Samaritan Hospital,MD,low,1,1,1
+24008,1,ST AGNES HEALTHCARE,MD,low,1,1,2
+24011,1,Baltimore Washington Med Ctr  ,MD,low,0,1,3
+24018,1,Johns Hopkins Bayview Med Ctr ,MD,low,1,1,2
+24019,1,#N/A,MD,low,0,1,2
+24033,1,Calvert Memorial Hospital     MD,MD,low,0,1,2
+24041,1,Peninsula Regional Health Syst,MD,low,0,0,3
+24043,1,Maryland General Hospital,MD,low,1,1,1
+24050,1,Frederick Memorial Hospital,MD,low,0,1,2
+24055,1,Howard County General HospitalMD,MD,low,0,1,2
+24063,1,Harbor Hospital               ,MD,low,1,1,1
+24074,1,ST JOSEPH MEDICAL CENTER,MD,low,0,1,3
+24080,1,HOLY CROSS HEALTH,MD,low,0,1,3
+24081,1,Southern Maryland Hospital Ctr,MD,low,0,1,3
+24084,1,SUBURBAN HOSPITAL,MD,low,0,1,3
+25006,1,Caritas St Elizabeth's Med CtrMA,MA,low,1,0,3
+25013,1,Holyoke Medical Center,MA,low,0,0,3
+25031,1,North Adams Regional Hospital ,MA,low,0,0,3
+25044,1,MA,MA,low,0,1,3
+25045,1,Faulkner Hospital             ,MA,low,1,1,1
+25051,1,Baystate Medical Center       ,MA,low,1,1,3
+25065,1,Union Hospital,MA,low,0,1,3
+25067,1,MA,MA,low,0,0,3
+25077,1,Morton Hospital & Med Ctr     MA,MA,low,0,1,2
+25097,1,#N/A,MA,low,0,1,3
+25098,1,#N/A,MA,low,0,0,1
+25102,1,MA,MA,low,0,0,2
+25114,1,MetroWest Medical Center      ,MA,low,1,1,2
+25127,1,#N/A,MA,low,0,0,1
+25144,1,MA,MA,low,0,1,2
+25158,1,MA,MA,low,0,0,3
+25170,1,#N/A,MA,low,0,0,3
+25181,1,South Shore Hospital          ,MA,low,0,0,3
+26011,1,                              ,MI,low,0,0,3
+26016,1,                              ,MI,low,1,1,2
+26033,1,#N/A,MI,low,1,1,2
+26049,1,                              ,MI,low,1,1,3
+26051,1,#N/A,MI,low,0,1,3
+26135,1,                              ,MI,low,0,1,3
+26145,1,0,MI,low,1,1,3
+26148,1,                              ,MI,low,0,1,3
+26150,1,0,MI,low,0,1,3
+27007,1,North Memorial Health Care    MN,MN,low,1,1,3
+27013,1,Lakeview Hospital             ,MN,low,0,1,1
+27016,1,#N/A,MN,low,1,1,3
+27072,1,Regions Hospital              ,MN,low,1,1,3
+27079,1,Fairmont Medical Center,MN,low,0,0,3
+27112,1,St Joseph's Hospital          MN,MN,low,1,1,2
+29017,1,LIBERTY HOSPITAL,MO,low,0,1,2
+29051,1,MISSOURI BAPTIST MEDICAL CTR,MO,low,0,1,3
+29056,1,St Marys Health Center        ,MO,low,0,0,3
+29057,1,OZARKS MEDICAL CENTER,MO,low,0,0,3
+29078,1,Southeast Missouri Hospital,MO,low,0,0,3
+29086,1,#N/A,MO,low,0,1,3
+29094,1,ST JOHN'S REGIONAL MEDICAL CTR,MO,low,0,1,3
+29160,1,Jefferson Memorial Hospital   MO,MO,low,0,1,3
+29165,1,ST ANTHONY'S MEDICAL CENTER,MO,low,0,1,3
+29166,1,#N/A,MO,low,0,1,3
+29192,1,#N/A,MO,low,1,1,1
+29193,1,St Luke's Hospital            ,MO,low,1,1,3
+30033,1,#N/A,#N/A,low,#N/A,#N/A,#N/A
+32003,1,Desert Springs Hosp Med Ctr,NV,low,0,0,3
+32004,1,Desert Springs Hosp Med Ctr   ,NV,low,0,1,3
+32006,1,Sunrise Hospital & Medical CtrNV,NV,low,1,1,3
+32019,1,#N/A,NV,low,0,1,2
+32022,1,Washoe Health System,NV,low,1,1,3
+32025,1,St Rose Dominican Hosp-Siena  ,NV,low,0,1,2
+32033,1,Sierra Surgery Hospital       ,NV,low,0,1,1
+34002,1,St Francis Medical Center     NJ,NJ,low,0,1,2
+34015,1,#N/A,NJ,low,0,0,2
+34021,1,Robert Wood Johnson University Hospital at Hamilton,NJ,low,0,0,3
+34048,1,#N/A,NJ,low,0,0,3
+34053,1,NJ,NJ,low,0,1,3
+34065,1,St Joseph's Regional Med Ctr  NJ,NJ,low,1,1,3
+34068,1,Kennedy Mem Hosps-Univ Med Ctr,NJ,low,0,1,3
+34069,1,Monmouth Medical Center       NJ,NJ,low,1,1,2
+34071,1,Clara Maass Medical Center,NJ,low,0,1,3
+34072,1,NJ,NJ,low,1,1,2
+34081,1,Capital Hlth System at Mercer NJ,NJ,low,0,1,3
+34085,1,Robert Wood Johnson Univ Hosp,NJ,low,1,1,3
+34089,1,NJ,NJ,low,0,0,3
+34090,1,NJ,NJ,low,0,1,3
+34091,1,Bayonne Medical Center        ,NJ,low,0,1,3
+34092,1,NJ,NJ,low,0,1,2
+34095,1,NJ,NJ,low,1,1,2
+34096,1,Saint Peter's University Hosp ,NJ,low,0,1,3
+34104,1,NJ,NJ,low,0,1,3
+34106,1,SAINT CLARE'S HEALTH SERVICES,NJ,low,0,1,3
+34109,1,#N/A,NJ,low,0,1,3
+34113,1,NJ,NJ,low,1,1,2
+34119,1,Chilton Memorial Hospital     NJ,NJ,low,0,1,3
+34123,1,Saint Michael's Medical CenterNJ,NJ,low,1,1,2
+34139,1,#N/A,NJ,low,1,1,2
+36005,1,Lincoln Medical and Mental Health Center,NY,low,1,1,2
+36020,1,CORNING HOSPITAL,NY,low,0,0,3
+36025,1,MILLARD FILLMORE GATES HOSP,NY,low,1,1,3
+36040,1,Oswego Hospital,NY,low,0,1,2
+36047,1,Wyckoff Heights Medical Center,NY,low,0,1,3
+36055,1,Strong Memorial Hospital of the University of Rochester,NY,low,1,1,3
+36058,1,Samaritan Hospital            ,NY,low,0,1,3
+36074,1,Jacobi Medical Center         NY,NY,low,1,1,3
+36082,1,White Plains Hospital Center  ,NY,low,0,1,3
+36083,1,Woman's Christian Assn Hosp   ,NY,low,0,1,3
+36088,1,St Peter's Hospital,NY,low,1,1,3
+36141,1,Southside Hospital            NY,NY,low,1,1,3
+36154,1,#N/A,NY,low,0,1,2
+36161,1,Lawrence Hospital Center,NY,low,0,1,3
+36182,1,Elmhurst Hospital Center,NY,low,1,1,2
+36188,1,#N/A,NY,low,1,1,3
+36214,1,#N/A,NY,low,1,1,3
+36226,1,Metropolitan Hospital Center,NY,low,1,1,2
+36236,1,#N/A,NY,low,0,1,3
+36237,1,Hudson Valley Hospital Center NY,NY,low,0,1,1
+36244,1,Interfaith Medical Center,NY,low,1,1,2
+36279,1,Erie County Medical Center    NY,NY,low,0,1,3
+36282,1,BENEDICTINE HOSPITAL,NY,low,1,0,3
+36288,1,#N/A,NY,low,0,1,3
+36303,1,#N/A,NY,low,1,1,2
+36310,1,#N/A,NY,low,1,1,2
+36324,1,#N/A,NY,low,0,1,1
+36330,1,Brookhaven Mem Hosp Med CenterNY,NY,low,0,1,3
+36337,1,Richmond University Med Ctr   NY,NY,low,1,1,3
+37003,1,#N/A,NC,low,0,1,3
+37009,1,#N/A,NC,low,#N/A,#N/A,#N/A
+37010,1,Rowan Regional Medical Center NC,NC,low,0,0,3
+37042,1,Valdese General Hospital      ,NC,low,0,1,1
+37059,1,New Hanover Regional Med Ctr  ,NC,low,1,1,3
+37077,1,Central Carolina Hospital     ,NC,low,0,0,3
+37086,1,Caldwell Memorial Hospital    ,NC,low,0,1,1
+37094,1,Albemarle Hospital,NC,low,0,0,3
+37096,1,#N/A,NC,low,0,1,2
+37100,1,Southeastern Regional Med Ctr NC,NC,low,0,0,3
+37120,1,SANDHILLS REGIONAL MEDICAL CTR,NC,low,0,0,2
+39002,1,#N/A,OH,low,1,1,3
+39022,1,                              ,OH,low,0,0,3
+39025,1,0,OH,low,0,1,3
+39034,1,OH,OH,low,1,1,3
+39043,1,#N/A,OH,low,1,1,2
+39044,1,0,OH,low,0,1,3
+39046,1,0,OH,low,1,1,3
+39048,1,                              ,OH,low,#N/A,#N/A,#N/A
+39060,1,OH,OH,low,0,0,3
+39064,1,#N/A,OH,low,0,1,3
+39096,1,OH,OH,low,1,1,1
+39109,1,0,OH,low,0,1,3
+39132,1,OH,OH,low,1,1,3
+39139,1,                              ,OH,low,1,1,2
+39151,1,                              ,OH,low,0,0,3
+39160,1,#N/A,OH,low,0,1,2
+40004,1,#N/A,#N/A,low,0,0,3
+40032,1,#N/A,#N/A,low,1,1,3
+41008,1,Providence St Vincent Med Ctr,OR,low,1,1,3
+41016,1,#N/A,OR,low,0,1,3
+41060,1,#N/A,OR,low,0,1,1
+41064,1,Providence Portland Med Ctr   OR,OR,low,1,1,3
+41086,1,Three Rivers Community Hosp   ,OR,low,0,0,3
+42001,1,Pottstown Memorial Med Center,PA,low,0,1,2
+42004,1,Med Clg of Pennsylvania Hosp,PA,low,1,1,2
+42014,1,PA,PA,low,0,1,2
+42022,1,York Hospital                 ,PA,low,1,1,3
+42025,1,PRESBY MED CTR OF UNIV OF PA,PA,low,1,1,1
+42035,1,UPMC Passavant,PA,low,0,1,2
+42039,1,PA,PA,low,0,0,3
+42042,1,#N/A,PA,low,0,1,2
+42053,1,PA,PA,low,1,1,3
+42057,1,Armstrong County Mem Hospital,PA,low,0,0,3
+42074,1,PA,PA,low,0,1,2
+42098,1,Pocono Medical Center         ,PA,low,0,0,3
+42113,1,PA,PA,low,0,0,2
+42116,1,PA,PA,low,1,1,3
+42124,1,PA,PA,low,0,1,2
+42130,1,Bryn Mawr Hospital            ,PA,low,1,1,1
+42137,1,PA,PA,low,0,0,3
+42140,1,WARREN GENERAL HOSPITAL,PA,low,0,0,2
+42167,1,PA,PA,low,1,1,1
+42172,1,PA,PA,low,0,1,3
+42213,1,St Clair Memorial Hospital,PA,low,0,1,3
+42231,1,Geisinger Wyoming Vly Med Ctr ,PA,low,0,0,3
+42246,1,PA,PA,low,1,1,2
+42247,1,PA,PA,low,1,1,1
+42251,1,Wills Eye Hospital,PA,low,1,1,1
+42261,1,Wayne Memorial Hospital,PA,low,0,0,2
+42266,1,Community Medical Center      ,PA,low,1,1,2
+42276,1,Montgomery Hospital Med Ctr   ,PA,low,1,1,1
+42285,1,Children's Hospital           ,PA,low,1,1,2
+42288,1,Western Pennsylvania Hospital,PA,low,1,1,3
+42320,1,PA,PA,low,0,1,3
+42321,1,Wyoming Vly Hlth Care System,PA,low,0,1,3
+42329,1,#N/A,PA,low,1,1,2
+44003,1,Kent County Memorial Hospital,RI,low,1,1,1
+44005,1,#N/A,RI,low,1,1,3
+45013,1,                              ,SC,low,1,1,2
+45016,1,SC,SC,low,0,1,2
+45021,1,                              ,SC,low,1,1,3
+45033,1,#N/A,SC,low,0,1,3
+45051,1,0,SC,low,0,1,3
+45071,1,                              ,SC,low,0,1,1
+45080,1,                              ,SC,low,0,0,3
+45086,1,#N/A,SC,low,0,1,2
+45088,1,0,SC,low,0,0,3
+45100,1,SC,SC,low,1,1,2
+45102,1,0,SC,low,0,1,3
+47004,1, ,TN,low,1,1,2
+47009,1, ,TN,low,0,1,2
+47016,1, ,TN,low,0,1,3
+47019,1, ,TN,low,0,1,3
+47027,1, ,TN,low,0,1,3
+47032,1, ,TN,low,0,1,3
+47033,1, ,TN,low,1,1,3
+47035,1, ,TN,low,0,1,1
+47036,1, ,TN,low,0,1,2
+47038,1, ,TN,low,0,1,3
+47040,1, ,TN,low,0,1,2
+47041,1, ,TN,low,0,1,2
+47045,1, ,TN,low,1,1,3
+47057,1, ,TN,low,0,1,2
+47067,1, ,TN,low,0,0,2
+47084,1, ,TN,low,0,0,3
+47125,1, ,TN,low,1,1,2
+48016,1, ,TX,low,1,1,2
+48022,1, ,TX,low,0,1,2
+48026,1, ,TX,low,0,1,3
+48035,1, ,TX,low,0,0,3
+48055,1, ,TX,low,1,1,2
+48056,1, ,TX,low,1,1,3
+48066,1, ,TX,low,0,1,3
+48069,1, ,TX,low,0,0,1
+48070,1, ,TX,low,#N/A,#N/A,#N/A
+48074,1, ,TX,low,0,1,3
+48077,1, ,TX,low,1,1,2
+48091,1, ,TX,low,0,1,3
+48092,1, ,TX,low,0,1,3
+48099,1, ,TX,low,0,1,3
+48123,1, ,TX,low,0,1,2
+48127,1, ,TX,low,0,1,3
+48130,1, ,TX,low,0,1,3
+48133,1, ,TX,low,1,1,2
+48137,1, ,TX,low,1,1,1
+48154,1, ,TX,low,0,1,2
+48159,1, ,TX,low,0,1,3
+48171,1, ,TX,low,1,1,3
+48172,1, ,TX,low,1,1,2
+48185,1, ,TX,low,1,1,3
+48191,1, ,TX,low,0,1,3
+48202,1, ,TX,low,0,1,3
+48205,1, ,TX,low,1,1,3
+48206,1, ,TX,low,0,1,3
+48212,1, ,TX,low,1,1,1
+48214,1, ,TX,low,1,1,2
+48227,1, ,TX,low,1,1,3
+48302,1, ,TX,low,#N/A,#N/A,#N/A
+48400,1, ,TX,low,0,1,2
+48509,1, ,TX,low,#N/A,#N/A,#N/A
+48623,1, ,TX,low,#N/A,#N/A,#N/A
+49018,1,OGDEN REGIONAL MEDICAL CENTER,UT,low,0,1,2
+49019,1,Allen Memorial Hospital,UT,low,1,1,1
+49024,1,Uintah Basin Medical Center   UT,UT,low,0,0,1
+49025,1,Dixie Regional Medical Center ,UT,low,0,0,3
+49026,1,LDS Hospital                  ,UT,low,1,1,3
+49037,1,Alta View Hospital            ,UT,low,0,1,1
+50004,1,#N/A,VT,low,0,0,1
+50005,1,Fletcher Allen Health Care    VT,VT,low,1,1,3
+51019,1,#N/A,VA,low,1,1,3
+51026,1,Inova Alexandria Hospital     VA,VA,low,1,1,2
+51027,1,Buchanan General Hospital,VA,low,0,1,2
+51037,1,Riverside Regional Med Center VA,VA,low,1,1,1
+51047,1,Culpeper Regional Hospital,VA,low,0,1,3
+51066,1,Chippenham Medical Center,VA,low,1,1,3
+53023,1,Tri-State Memorial Hospital   ,WA,low,0,1,1
+53026,1,Stevens Healthcare,WA,low,0,1,2
+53028,1,#N/A,WA,low,0,1,1
+53060,1,WA,WA,low,0,1,2
+53062,1,CHILDREN'S HOSP & MEDICAL CTR,WA,low,0,1,3
+53071,1,WA,WA,low,0,0,3
+53084,1,#N/A,WA,low,1,1,1
+53093,1,VALLEY MEDICAL CENTER,WA,low,1,1,1
+53107,1,Auburn Regional Medical Center,WA,low,0,1,2
+53108,1,WA,WA,low,0,1,3
+53112,1,Island Hospital               WA,WA,low,0,0,2
+54006,1,Cabell Huntington Hospital    ,WV,low,1,1,2
+54007,1,Braxton County Memorial Hospital,WV,low,1,1,3
+55002,1,WI,WI,low,0,1,1
+55003,1,Memorial Medical Center - Ashland,WI,low,0,1,3
+55015,1,WI,WI,low,0,1,2
+55020,1,WI,WI,low,1,1,2
+55055,1,#N/A,WI,low,0,0,3
+55058,1,WI,WI,low,1,1,2
+55068,1,Aurora Memorial Hospital      WI,WI,low,0,1,1
+55071,1,Holy Family Memorial Medical Center,WI,low,0,1,3
+55079,1,Kindred Hospital-Milwaukee,WI,low,0,0,2
+55095,1,Fort HealthCare               ,WI,low,0,0,2
+55099,1,Appleton Medical Center       ,WI,low,0,1,2
+55112,1,St Elizabeth Hospital         WI,WI,low,0,1,3
+55122,1,St Nicholas Hospital,WI,low,0,1,2
+55124,1,WI,WI,low,0,1,2
+55135,1,WI,WI,low,0,1,3
+55156,1,Agnesian HealthCare,WI,low,0,0,3
+55168,1,WI,WI,low,1,1,1
+55175,1,Mercy Health System           WI,WI,low,1,1,1
